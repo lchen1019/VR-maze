@@ -1,0 +1,19 @@
+{
+  "localhost": "192.168.43.108",
+  "kinect-host": "127.0.0.1",
+  "user1-ip": "192.168.43.232",
+  "user2-ip": "192.168.43.1",
+  "broadcast-ip": "192.168.43.108",
+
+  "android-port": 9202,
+  "kinect-port": 9999,
+  "unity-port": 8888,
+  "broadcast-port": 9060,
+
+  "width": 2.4,
+  "height": 2.4,
+  "offsetX": 1.2,
+  "offsetY": 1.2,
+  "maze-size-width": 4,
+  "maze-size-height": 4
+}
